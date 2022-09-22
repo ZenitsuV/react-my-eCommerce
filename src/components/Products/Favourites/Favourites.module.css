@@ -1,0 +1,16 @@
+.favourites {
+  max-width: 60rem;
+  width: 90%;
+  margin: 2rem auto;
+  animation: meals-appear 1s ease-out forwards;
+}
+
+.card {
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  background-color: white;
+  margin-top: 7.5rem;
+  margin-left: 25rem;
+  margin-right: 25rem;
+}

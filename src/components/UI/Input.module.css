@@ -1,0 +1,49 @@
+.input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.input label {
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+.input input {
+  width: 3rem;
+  border-radius: 0px;
+  border: 1px solid #ccc;
+  font: inherit;
+  padding-left: 0.5rem;
+  text-align: center;
+}
+
+.input button {
+  margin-left: 3rem;
+}
+
+.decrement {
+  background-color: #c9302c;
+  height: 28px;
+  width: 35px;
+  text-align: center;
+  font-size: 33px;
+  font-weight: bold;
+  line-height: 19px;
+  color: #fff;
+  border-radius: 7px 0px 0px 7px;
+  cursor: pointer;
+}
+
+.increment {
+  background-color: #449d44;
+  height: 28px;
+  width: 35px;
+  text-align: center;
+  font-size: 33px;
+  font-weight: bold;
+  line-height: 25px;
+  color: #fff;
+  border-radius: 0px 7px 7px 0px;
+  cursor: pointer;
+}
